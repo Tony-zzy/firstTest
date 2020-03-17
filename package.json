@@ -1,0 +1,20 @@
+{
+  "name": "firstTest",
+  "version": "1.0.0",
+  "description": "测试上传仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-zzy/firstTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony-zzy/firstTest/issues"
+  },
+  "homepage": "https://github.com/Tony-zzy/firstTest#readme"
+}
